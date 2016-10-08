@@ -1,0 +1,14 @@
+hand:  
+ESP8266 HUZZAH board 
+47k Ohm resistor
+3.3k Ohm resitor
+
+
+peripheral:
+ESP8266 HUZZAH board 
+9DOF IMU
+
+programming interface
+FTDI Friend
+USB Mini B
+USB Micro B
